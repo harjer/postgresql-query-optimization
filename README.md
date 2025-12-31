@@ -58,8 +58,8 @@ To improve performance, the following steps were applied:
 ---
 
 ## Author
-[YEGON] – DBA & Data Engineer  
-- GitHub: [YEGON]  
+[Harjer] – DBA & Data Engineer  
+- GitHub: [Harjer]  
 - LinkedIn: [https://www.linkedin.com/in/yegon-elvis-7564833a2]  
 - Contact: [yegonelvis3@gmail.com]  
 
